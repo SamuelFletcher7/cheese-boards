@@ -1,4 +1,4 @@
-const{User, Cheese} = require('../models')
+const{User, Cheese, Board} = require('../models')
 const db = require('./db')
 
 async function seed(){

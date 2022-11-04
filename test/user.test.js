@@ -1,5 +1,5 @@
 const User = require('../models/user.model')
-const  {db} = require('../db/db')
+const db = require('../db/db')
 
 
 describe('User', () => {
